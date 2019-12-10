@@ -1,0 +1,27 @@
+# 配置文件的结构内容可以随意改动，只需在Python代码中对应即可
+# 以_dir或_path结尾的字段，parser会将相对路径（相对于config.yaml）自动转换成绝对路径并检查是否存在
+# 注意缩进
+system:
+  log_dir: ./
+  gpu_devices: 0,
+dataset:
+  color_space: Lab
+  map_name: map2
+  area_image: advanceGWT
+#  area_image: cover
+  data_path: ../../dataset/
+  sequence_len: 30
+  Normalization: True
+  train:
+    points_mouse_selected: False #True: use mouse to select the training points, else False
+    save_selected_points: True #used only while points_mouse_selected is True
+    samples_per_class: 10000
+    batch_size: 200
+    shuffle: True
+  test:
+    loop: 1
+network:
+  num_classes: 6
+  learning_rate: 0.01
+  momentum: 0.9
+  epochs: 20

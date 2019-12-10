@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd8d0f9e-c718-4a46-b336-6263fd8f9ea5" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/venv/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SSCNN" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/configs/config.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DiceLoss</find>
+      <find>gpu</find>
+      <find>cuda</find>
+      <find>train</find>
+      <find>ones</find>
+      <find>.tolist()</find>
+      <find>plot</find>
+      <find>img</find>
+      <find>color</find>
+      <find>trans</find>
+      <find>type</find>
+      <find>zeros</find>
+      <find>where</find>
+      <find>plt</find>
+      <find>not</find>
+      <find>show</find>
+      <find>Counter</find>
+      <find>ShallowCNN</find>
+      <find>_path</find>
+      <find>_max_len_seq_inner</find>
+      <find>img_ori</find>
+      <find>size</find>
+      <find>labeled_image</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/example.py" />
+        <option value="$PROJECT_DIR$/configs/config.yaml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectId" id="1UeDYyCNuc6OshDZn4xIofmKC6r" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SCNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SCNN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SCNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SCNN" type="462c0819:PsiDirectoryNode" />
+              <item name="configs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="python.debugger.dataview.autoresize" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\paper\Shallow CNN for Scanned Topographic Map Segmentation\第六次Computers&amp;Geosciences\SSCNN\SCNN" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="SSCNN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SSCNN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.example" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd8d0f9e-c718-4a46-b336-6263fd8f9ea5" name="Default Changelist" comment="" />
+      <created>1562374362022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562374362022</updated>
+      <workItem from="1562374363194" duration="61173000" />
+      <workItem from="1562764110236" duration="15524000" />
+      <workItem from="1562818661982" duration="79789000" />
+      <workItem from="1563199310014" duration="3138000" />
+      <workItem from="1563258575005" duration="11500000" />
+      <workItem from="1563346348942" duration="9558000" />
+      <workItem from="1563410188760" duration="6356000" />
+      <workItem from="1563421312554" duration="32854000" />
+      <workItem from="1563525085012" duration="3427000" />
+      <workItem from="1563604222625" duration="6427000" />
+      <workItem from="1563633758385" duration="14892000" />
+      <workItem from="1563757335074" duration="8804000" />
+      <workItem from="1563778994393" duration="17215000" />
+      <workItem from="1563844832490" duration="400000" />
+      <workItem from="1563845261861" duration="3085000" />
+      <workItem from="1563848556396" duration="4532000" />
+      <workItem from="1563861166981" duration="1397000" />
+      <workItem from="1563862589913" duration="9009000" />
+      <workItem from="1563928701462" duration="27804000" />
+      <workItem from="1565229792886" duration="2056000" />
+      <workItem from="1565793387429" duration="18380000" />
+      <workItem from="1566090539636" duration="36550000" />
+      <workItem from="1567323789459" duration="655000" />
+      <workItem from="1571754096688" duration="822000" />
+      <workItem from="1574990421787" duration="778000" />
+      <workItem from="1575011326983" duration="1335000" />
+      <workItem from="1575013094027" duration="1458000" />
+      <workItem from="1575032413988" duration="1794000" />
+      <workItem from="1575034228834" duration="1318000" />
+      <workItem from="1575036618949" duration="1636000" />
+      <workItem from="1575038408704" duration="860000" />
+      <workItem from="1575076800318" duration="141000" />
+      <workItem from="1575076962954" duration="39000" />
+      <workItem from="1575077016795" duration="12700000" />
+      <workItem from="1575267765356" duration="17235000" />
+      <workItem from="1575439741267" duration="14870000" />
+      <workItem from="1575509478805" duration="228000" />
+      <workItem from="1575509840567" duration="10605000" />
+      <workItem from="1575708220911" duration="90000" />
+      <workItem from="1575708322715" duration="86000" />
+      <workItem from="1575708421272" duration="108000" />
+      <workItem from="1575708539740" duration="226000" />
+      <workItem from="1575708908810" duration="816000" />
+      <workItem from="1575927924784" duration="2753000" />
+      <workItem from="1575935105159" duration="1723000" />
+      <workItem from="1575941574469" duration="1336000" />
+      <workItem from="1575945304269" duration="2717000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2717000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49839744" visible="true" weight="0.18017058" />
+      <window_info id="Structure" order="1" sideWeight="0.5016026" side_tool="true" weight="0.17217484" />
+      <window_info id="Favorites" order="2" sideWeight="0.5016026" side_tool="true" weight="0.17217484" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.30589545" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32925472" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.33586133" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32925472" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.25139043" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.14818764" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="4" side_tool="true" weight="0.32036248" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
+      <window_info anchor="right" auto_hide="true" id="SciView" order="6" weight="0.2803838" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="368" y="0" key="#example" timestamp="1575708690909">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="368" y="0" key="#example/0.0.1280.689@0.0.1280.689" timestamp="1575708690909" />
+    <state x="375" y="109" key="EnvironmentVariablesDialog" timestamp="1575708689791">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="375" y="109" key="EnvironmentVariablesDialog/0.0.1280.689@0.0.1280.689" timestamp="1575708689791" />
+    <state x="420" y="102" key="FileChooserDialogImpl" timestamp="1575928330088">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="420" y="102" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1575928330088" />
+    <state width="1237" height="157" key="GridCell.Tab.0.bottom" timestamp="1575941357167">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1575941357167" />
+    <state width="1237" height="157" key="GridCell.Tab.0.center" timestamp="1575941357167">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1575941357167" />
+    <state width="1237" height="157" key="GridCell.Tab.0.left" timestamp="1575941357167">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1575941357167" />
+    <state width="1237" height="157" key="GridCell.Tab.0.right" timestamp="1575941357167">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1575941357167" />
+    <state width="1237" height="157" key="GridCell.Tab.1.bottom" timestamp="1575941357168">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1575941357168" />
+    <state width="1237" height="157" key="GridCell.Tab.1.center" timestamp="1575941357167">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1575941357167" />
+    <state width="1237" height="157" key="GridCell.Tab.1.left" timestamp="1575941357167">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1575941357167" />
+    <state width="1237" height="157" key="GridCell.Tab.1.right" timestamp="1575941357167">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1575941357167" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1575928722668">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1575928722668" />
+    <state x="348" y="172" key="com.intellij.ide.util.TipDialog" timestamp="1575708425514">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="348" y="172" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1575708425514" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SSCNN.py</url>
+          <line>245</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SSCNN.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SSCNN$example.coverage" NAME="example Coverage Results" MODIFIED="1563935848365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SCNN$example.coverage" NAME="example Coverage Results" MODIFIED="1575939069136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>epoch==20</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configs/config.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
